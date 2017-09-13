@@ -12,3 +12,6 @@ This is simple Eureka Project Example
 ```
 mvn spring-boot:run
 ```
+
+http://localhost:8761/eureka/apps/
+http://localhost:8761/
